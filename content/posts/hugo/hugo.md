@@ -28,6 +28,7 @@ git init
 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
 echo 'theme = "ananke"' >> config.toml
 ```
+如需修改主题，请访问[themes.gohugo.io](https://themes.gohugo.io/)
 
 ### 3.添加内容
 ```bash
