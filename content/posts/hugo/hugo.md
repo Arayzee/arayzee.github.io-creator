@@ -59,7 +59,9 @@ hugo -D
 打包后你的项目中会生成一个`public`文件夹，就是它了
 
 ## 使用Github发布你的博客
-首先在创建Github上创建一个名为「你的Github用户名.github.io」的仓库，把打包后的`public`文件夹关联到这个仓库，推送内容后点开该仓库的`Settings`，找到`GitHub Pages`配置，把`Source`设置为`master branch`，之后所有人便可通过[你的Github用户名.github.io]()来访问你的博客。
+首先在创建Github上创建一个名为「你的Github用户名.github.io」的仓库，把打包后的`public`文件夹关联到这个仓库，推送内容后点开该仓库的`Settings`，找到`GitHub Pages`配置，把`Source`设置为`master branch`
+![设置Github Pages](./img-01.png)
+之后便可通过[你的Github用户名.github.io]()来访问你的博客。
 
 
 
