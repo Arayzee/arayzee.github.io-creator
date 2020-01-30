@@ -1,9 +1,12 @@
 ---
-title: "HTML入门笔记1"
+title: "HTML入门笔记"
 date: 2020-01-03T02:38:33+08:00
+categories: ["前端"]
+tags: ["HTML"]
 draft: false
 ---
-## HTML 起源
+
+# HTML 起源
 HTML（超文本标记语言——HyperText Markup Language）是构成 Web 世界的一砖一瓦。它定义了网页内容的含义和结构。除 HTML 以外的其它技术则通常用来描述一个网页的表现与展示效果（如 CSS），或功能与行为（如 JavaScript）。
 
 “超文本”（hypertext）是指连接单个网站内或多个网站间的网页的链接。链接是网络的一个基本方面。只要将内容上传到互联网，并将其与他人创建的页面相链接，你就成为了万维网的积极参与者。
@@ -14,7 +17,7 @@ HTML 元素通过“标签”（tag）将文本从文档中引出，标签由在
 
 HTML由Tim Berners-Lee于1990年创立，一直被用作WWW的信息表示语言。WWW（万维网——World Wide Web）是存储在Internet计算机中、数量巨大的文档的集合。这些文档称为页面，它是一种超文本(Hypertext)信息，可以用于描述超媒体。文本、图形、视频、音频等多媒体，称为超媒体(Hypermedia)。Web上的信息是由彼此关联的文档组成的，而使其连接在一起的是超链接(Hyperlink)。WWW的三大核心是HTML、HTTP、URL，有了WWW才有了上网（输入网址，看到网站）这一概念。
 
-## HTML起手式
+# HTML起手式
 在VSCode中创建HTML文件，我们可以使用emmet语法输入`!`按Tab键快速创建HTML框架，如下：
 ```html
 <!DOCTYPE html> <!-- 文档类型 -->
@@ -34,7 +37,7 @@ HTML由Tim Berners-Lee于1990年创立，一直被用作WWW的信息表示语言
 </html>
 ```
 
-## HTML章节标签
+# HTML章节标签
 * 标题 h1~h6
 * 章节 section
 * 文章 article
@@ -45,7 +48,7 @@ HTML由Tim Berners-Lee于1990年创立，一直被用作WWW的信息表示语言
 * 旁支内容 aside
 * 划分 div
 
-## HTML全局属性
+# HTML全局属性
 HTML所有标签都具有的属性：
 * class 类名
 * contenteditable 内容是否可编辑
@@ -55,10 +58,10 @@ HTML所有标签都具有的属性：
 * tabindex 声明用户使用tab浏览时的顺序
 * title 完整内容
 
-## 常用内容标签
+# 常用内容标签
 * ol + li 有序列表
 * ul + li 无序列表
-* dl + dt + dd 描述信息
+* dl + dt + dd 描述列表
 * pre 预格式化
 * hr 分割线
 * br 换行
