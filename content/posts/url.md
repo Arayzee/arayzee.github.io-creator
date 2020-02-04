@@ -67,4 +67,5 @@ IP分为外网IP和内网IP，外网IP定位的是路由器在互联网上的位
 * `顶级域名` 如com
 * `二级域名` 如baidu.com
 * `三级域名` 如www.baidu.com
+
 他们之间为父子关系，例如github.io把子域名xxx.github.io免费给用户使用。
