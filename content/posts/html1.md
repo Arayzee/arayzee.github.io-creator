@@ -2,7 +2,7 @@
 title: "HTML入门笔记"
 date: 2020-01-03T02:38:33+08:00
 categories: ["前端"]
-tags: ["HTML"]
+tags: ["HTML", "tech"]
 draft: false
 ---
 

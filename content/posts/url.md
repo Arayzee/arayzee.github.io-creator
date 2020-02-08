@@ -2,7 +2,7 @@
 title: "浅析URL"
 date: 2020-02-04T14:32:50+08:00
 categories: ["前端"]
-tags: ["URL"]
+tags: ["URL", "tech"]
 draft: false
 ---
 

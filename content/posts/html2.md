@@ -2,7 +2,7 @@
 title: "HTML常用标签"
 date: 2020-01-15T13:27:08+08:00
 categories: ["前端"]
-tags: ["HTML"]
+tags: ["HTML", "tech"]
 draft: false
 ---
 

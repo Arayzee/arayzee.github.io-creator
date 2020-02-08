@@ -2,7 +2,7 @@
 title: "使用Hugo搭建静态博客并发布到Github上"
 date: 2019-12-19T04:47:38+08:00
 categories: ["前端"]
-tags: ["Hugo", "Github"]
+tags: ["Hugo", "Github", "tech"]
 draft: false
 ---
 
