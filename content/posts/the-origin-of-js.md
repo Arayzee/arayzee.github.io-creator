@@ -42,5 +42,6 @@ draft: false
 
 如今，Javascript创造的价值已不可估量，虽然其有许多令人诟病之处，但只要合理的避开那些缺陷，Javascript仍不失为一款值得学习的语言。Javascript避坑指南——[《Javascript秘密花园》](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
+---
 
 本文部分内容参考自阮一峰博客：[Javascript诞生记](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html)
