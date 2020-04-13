@@ -35,7 +35,7 @@ let i = 0
 for(i = 0; i<6; i++){
   ! function(i) {
     setTimeout(()=>{
-      console.log(i)i
+      console.log(i)
     },0)
   } (i)
 }
